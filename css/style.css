@@ -26,7 +26,38 @@ body{
     font-weight: 25px;
     color: #001E4D;
     font-weight: 600;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #093A3E;
     padding-bottom: 30px;
+}
+
+.btn{
+    background: #fff;
+    color: #093A3E;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #093A3E;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn:hover{
+    background: #093A3E;
+    color: #FFF;
+}
+
+#next-btn{
+    background: #093A3E;
+    color: #fff;
+    font-weight: 500;
+    width: 150px;
+    border:0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
 }
     
